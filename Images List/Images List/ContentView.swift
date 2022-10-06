@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-
+//6.10
     
     let columns: [GridItem] = [
         GridItem(.adaptive(minimum: 188), spacing: 0)
