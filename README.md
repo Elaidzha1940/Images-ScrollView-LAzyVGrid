@@ -1,4 +1,4 @@
-⌨️ Images ScrollView LAzyVGrid / SwiftUI.
+⌨️ Images ScrollView LazyVGrid / SwiftUI.
 =========
 
 ---------
